@@ -13,4 +13,24 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0006-zigzag-conversion) |
+## Array
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

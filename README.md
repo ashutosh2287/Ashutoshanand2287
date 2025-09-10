@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

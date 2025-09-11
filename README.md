@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

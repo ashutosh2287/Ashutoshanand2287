@@ -18,6 +18,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0283-move-zeroes) |
+| [1603-running-sum-of-1d-array](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0007-reverse-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

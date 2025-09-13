@@ -17,11 +17,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |

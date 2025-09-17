@@ -18,6 +18,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
@@ -26,6 +27,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +73,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0070-climbing-stairs) |
 ## Stack
@@ -100,4 +102,8 @@
 | [0056-merge-intervals](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0349-intersection-of-two-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0219-contains-duplicate-ii](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0349-intersection-of-two-arrays) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0349-intersection-of-two-arrays) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [1801-average-time-of-process-per-machine](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/1801-average-time-of-process-per-machine) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

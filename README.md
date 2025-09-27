@@ -111,6 +111,7 @@
 ## Database
 |  |
 | ------- |
+| [1415-students-and-examinations](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/1801-average-time-of-process-per-machine) |
 ## Sliding Window
 |  |

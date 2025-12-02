@@ -14,6 +14,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0344-reverse-string) |
 ## Array
@@ -50,6 +51,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |

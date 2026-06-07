@@ -24,6 +24,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutosh2287/Ashutoshanand2287/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0287-find-the-duplicate-number) |
@@ -49,6 +50,7 @@
 | [0022-generate-parentheses](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutosh2287/Ashutoshanand2287/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

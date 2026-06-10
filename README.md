@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ashutosh2287/Ashutoshanand2287/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/ashutosh2287/Ashutoshanand2287/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -38,6 +39,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ashutosh2287/Ashutoshanand2287/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0141-linked-list-cycle) |
@@ -115,6 +117,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ashutosh2287/Ashutoshanand2287/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0349-intersection-of-two-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |

@@ -16,6 +16,7 @@
 | [0006-zigzag-conversion](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/ashutosh2287/Ashutoshanand2287/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0344-reverse-string) |
 ## Array
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/ashutosh2287/Ashutoshanand2287/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0349-intersection-of-two-arrays) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -119,6 +121,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/ashutosh2287/Ashutoshanand2287/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/ashutosh2287/Ashutoshanand2287/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/0349-intersection-of-two-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashutosh2287/Ashutoshanand2287/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Backtracking
